@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daviareias
 - 👀 I’m interested in Scraping
-- 🌱 I’m currently learning C##, Python, JS, Tensorflow
+- 🌱 I’m currently learning C++, Python, Tensorflow, Liquid, React, Hydrogen
 - 💞️ I’m looking to collaborate on Scraping Projects
 - 📫 How to reach me -> post here?
 
