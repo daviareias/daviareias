@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @daviareias
-- 👀 I’m interested in Scraping
-- 🌱 I’m currently learning C++, Python, Tensorflow, Liquid, React, Hydrogen
-- 💞️ I’m looking to collaborate on Scraping Projects
-- 📫 How to reach me -> post here?
+# Hello 
+
+I do a lot of stuff with Shopify using liquid and typescript.
+
+I use Rust when I can.
+
+k thx.
 
 <!---
 daviareias/daviareias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
